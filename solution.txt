@@ -1,0 +1,138 @@
+Killer: 
+Jeremy Bowers
+
+  507  ls
+  508  cat crimescene | grep CLUE
+  509  cat people | grep CLUE
+  510  cat people | grep Annabel
+  511  ls
+  512  cat vehicles | grep CLUE
+  513  head clues
+  514  header crimescene
+  515  head crimescene
+  516  ls -l
+  517  cd memberships/
+  518  ls
+  519  head AAA
+  520  head library.txt
+  521  cd ..
+  522  cat membership | grep CLUE
+  523  ls
+  524  cat crimescene | grep CLUE
+  525  cd ..
+  526  ls
+  527  cd instructions
+  528  cat instructions
+  529  cd mystery
+  530  ls
+  531  grep crimescene CLUE
+  532  grep CLUE crimescene
+  533  ls -l
+  534  grep people Annabel
+  535  grep Annabel people
+  536  head vehicles
+  537  grep Annabel vehicles
+  538  grep -C 4 "Annabel" vehicles
+  539  ls
+  540  ls memberships/
+  541  ls annabel Museum_of_Bash_History
+  542  grep Annabel Museum_Of_Bash_History
+  543  grep Annabel Museum_of_Bash_History
+  544  ls -l
+  545  cd memberships
+  546  grep Annabel Museum_of_Bash_History
+  547  cd ..
+  548  grep barista crimescene
+  549  cd memberships
+  550  grep Annabel library.txt
+  551  ls
+  552  grep Annabel library.txt
+  553  grep Annabel delta.ttxt
+  554  grep Annabel delta.txt
+  555  head delta.txt
+  556  head 1.txt
+  557  grep Annabel AAA
+  558  grep Annabel Terminal_City_Library
+  559  grep Annabel 1.txt
+  560  grep Annabel museum.txt
+  561  ls
+  562  cd ..
+  563  head vehicles
+  564  head people
+  565  cd Annabel
+  566  ls
+  567  cd people
+  568  head people
+  569  grep Annabel people
+  570  cd memberships
+  571  ls
+  572  head library.txt
+  573  cd ..
+  574  ls
+  575  grep Annabel people
+  576  grep -C 4 "Annabel" vehicles
+  577  grep CLUE crimescene
+  578  grep "Hart Place" people
+  579  grep "Buckingham Place" people
+  580  ls
+  581  cd streets
+  582  ls
+  583  cd ..
+  584  head -n 173 streets/Mattapan_Street | tail -n 1
+  585  cd
+  586  cd ~/code/command-line-murder-mystery/
+  587  ls
+  588  cd mystery
+  589  ls
+  590  cat interviews/9437737
+  591  ls interviews/
+  592  cat interviews/interview-9437737
+  593  ls
+  594  grep Annabel people
+  595  grep Annabel streets/Hart Place
+  596  ls streets
+  597  grep Annabel streets/Hart_Place
+  598  grep Annabel vehicles
+  599  grep -C Annabel vehicles
+  600  grep -C 4 Annabel vehicles
+  601  head streets/Hart_Place
+  602  grep Annabel people
+  603  /file$ tail -n +39 | head -n 3
+  604  /streets/Hart_Place  tail -n +39 | head -n 3
+  605  ls
+  606  cat streets/Hart_Place | tail -n +39
+  607  cat streets/Hart_Place | tail -n +40 | head -n 1
+  608  cat interviews/interview-47246024
+  609  grep Annabel
+  610  grep Annabel people
+  611  cat streets/Buckingham_Place | tail -n +179 | head -n 1
+  612  cat interviews/interview-699607
+  613  grep L337 vehicles
+  614  grep Honda vehicles
+  615  grep -c 4 Vehicles
+  616* grep L337 vehicles | tail -C 4
+  617  grep -C 4 L337 vehicles
+  618  grep -A 4 L337 vehicles
+  619  grep CLUE crimescene
+  620  grep people Erika
+  621  grep Erika people
+  622  grep Aron people
+  623  cd memberships
+  624  grep "Aron Pilhofer" &
+  625  grep "Aron Pilhofer" *
+  626  cd ..
+  627  grep Heather people
+  628  cd memberships
+  629  grep "Joe Germuska" *
+  630  grep "Jeremy Bowers" *
+  631  grep "Jacqui Maher" *
+  632  cd ..
+  633  grep "Jeremy Bowers" people
+  634  cat streets/Dunstable_Road | tail -n +284 | head -n 1
+  635  cat interviews/interview-9620713
+  636  grep "Jacqui Maher" people
+  637  cat streets/Andover_Road | tail -n +224 | head -n 1
+  638  cat interviews/interview-904020
+  639  grep "Joe Germuska" people
+  640  cat streets/Plainfield_Street | tail -n +275 | head -n 1
+  641  cat interviews/interview-29741223
